@@ -36,7 +36,7 @@ export default {
     target: '_blank',
   },
   cfp: {
-    to: 'https://forms.gle/JyrTeEJuk2PVAT7d9',
+    to: 'https://sessionize.com/app/organizer/event/13464',
     target: '_blank',
   },
   mission: {
